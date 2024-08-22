@@ -3,7 +3,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
-# Sample data creation (Replace this with your actual dataset)
 data = {
     'Age': [29, 45, 53, 35, 61, 40, 52, 37, 45, 50],
     'Cholesterol': [200, 240, 220, 180, 250, 210, 230, 190, 240, 260],
